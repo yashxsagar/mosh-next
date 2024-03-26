@@ -1,0 +1,6 @@
+/* Let's define style classes that are local tio the ProductCard Component Only*/
+
+.cardContainer {
+  padding: 1rem;
+  /* border: 1px solid #ccc; */
+}

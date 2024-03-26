@@ -33,3 +33,9 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+#prisma env
+.env
+
+# react-email application --> npm run preview-email
+.react-email/
