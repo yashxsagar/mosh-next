@@ -39,3 +39,6 @@ next-env.d.ts
 
 # react-email application --> npm run preview-email
 .react-email/
+
+# cars end-point as it localhost:2000 cannot be fetched by the Vercel Production environment
+/app/cars
